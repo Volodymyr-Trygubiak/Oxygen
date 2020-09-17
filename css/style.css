@@ -11,9 +11,7 @@ a {
   white-space: nowrap;
   transition: all .4s;
 }
-img {
-  width: 100%;
-}
+
 body {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
@@ -82,9 +80,8 @@ body {
 
 
 .main {
-  background: url(../img/Header-bg.jpg) no-repeat center;
+  background: #373A39 url(../img/Header-bg.jpg) no-repeat center;
   background-size: cover;
-  height: 100vh;
   height: 100vh;
   text-align: center;
   color: #fff;
